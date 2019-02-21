@@ -1,0 +1,24 @@
+PODS:
+  - CryptoSwift (0.13.0)
+  - IQKeyboardManager (6.2.0)
+  - KeychainSwift (13.0.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - IQKeyboardManager
+  - KeychainSwift (~> 13.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CryptoSwift
+    - IQKeyboardManager
+    - KeychainSwift
+
+SPEC CHECKSUMS:
+  CryptoSwift: 16e78bebf567bad1c87b2d58f6547f25b74c31aa
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  KeychainSwift: 23d6c16cbc33f20fafa30c3d783241b4b87d998c
+
+PODFILE CHECKSUM: 4dd77ee295a74b7a23ea7acda0783632bd29b5b9
+
+COCOAPODS: 1.5.3
